@@ -1,0 +1,14 @@
+{
+  "title": "GuideHollow",
+  "slug": "json-flatten",
+  "section": "중첩 JSON 경로 펼치기",
+  "hero": "중첩 JSON 경로 펼치기",
+  "description": "RFC 6901 JSON Pointer 경로를 사용합니다. 빈 경로는 최상위 값이며 /와 ~는 이스케이프됩니다.",
+  "pageTitle": "중첩 JSON 경로 펼치기 | GuideHollow",
+  "url": "https://json-flatten.guidehollow.com/",
+  "accent": "#17684f",
+  "launchReady": true,
+  "adsReady": false,
+  "coupangEnabled": true,
+  "utilityEnabled": true
+}

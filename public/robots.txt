@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://json-flatten.guidehollow.com/sitemap-index.xml
